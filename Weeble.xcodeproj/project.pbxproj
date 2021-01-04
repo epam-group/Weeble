@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B5872E5D259F4A2200B19414 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = B5872E5C259F4A2200B19414 /* start.txt */; };
 		B5C080B1259751390019A79F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C080B0259751390019A79F /* AppDelegate.swift */; };
 		B5C080B3259751390019A79F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C080B2259751390019A79F /* SceneDelegate.swift */; };
 		B5C080B5259751390019A79F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C080B4259751390019A79F /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B5872E5C259F4A2200B19414 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 		B5C080AD259751390019A79F /* Weeble.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weeble.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5C080B0259751390019A79F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5C080B2259751390019A79F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				B5C080B4259751390019A79F /* ContentView.swift */,
 				B5C080B62597513A0019A79F /* Assets.xcassets */,
 				B5C080BB2597513A0019A79F /* LaunchScreen.storyboard */,
+				B5872E5C259F4A2200B19414 /* start.txt */,
 				B5C080BE2597513A0019A79F /* Info.plist */,
 				B5C080B82597513A0019A79F /* Preview Content */,
 			);
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B5C080BD2597513A0019A79F /* LaunchScreen.storyboard in Resources */,
+				B5872E5D259F4A2200B19414 /* start.txt in Resources */,
 				B5C080BA2597513A0019A79F /* Preview Assets.xcassets in Resources */,
 				B5C080B72597513A0019A79F /* Assets.xcassets in Resources */,
 			);
